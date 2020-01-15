@@ -5,8 +5,8 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'vue-tree-list.min.js',
-    library: 'VueTreeList',
+    filename: 'vue-tree-dragify.min.js',
+    library: 'VueTreeDragify',
     libraryTarget: 'umd'
   },
   module: {

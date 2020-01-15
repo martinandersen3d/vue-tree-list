@@ -1,8 +1,8 @@
 {
-  "name": "vue-tree-list",
-  "version": "1.0.2",
+  "name": "vue-tree-dragify",
+  "version": "1.1.3",
   "description": "A vue component for tree structure. Support adding treenode/leafnode, editing node's name and dragging.",
-  "main": "dist/vue-tree-list.min.js",
+  "main": "dist/vue-tree-dragify.min.js",
   "scripts": {
     "test": "karma start --single-run",
     "unit": "karma start --watch",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ParadeTo/vue-tree-list.git"
+    "url": "git+https://github.com/martinandersen3d/vue-tree-list.git"
   },
   "keywords": [
     "vue",
@@ -20,9 +20,9 @@
   "author": "ayou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ParadeTo/vue-tree-list/issues"
+    "url": "https://github.com/martinandersen3d/vue-tree-list/issues"
   },
-  "homepage": "https://github.com/ParadeTo/vue-tree-list#readme",
+  "homepage": "https://github.com/martinandersen3d/vue-tree-list#readme",
   "dependencies": {
     "jquery": "^3.2.1"
   },
